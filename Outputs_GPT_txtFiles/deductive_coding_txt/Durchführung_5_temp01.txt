@@ -1,0 +1,91 @@
+Code: "PBNV"
+Textstelle: "Zusammenlegung des Emissionshandelssystems der EU und der Schweiz gewährleistet, dass die gleichen Bedingungen für beide Handelspartner beste-hen [822]"
+Begründung: Die Aussage deutet darauf hin, dass nicht alle Ansichten und Interessen bei der Entscheidung über die Zusammenlegung des Emissionshandelssystems berücksichtigt wurden und dass möglicherweise eine einseitige Entscheidung getroffen wurde. Dies passt zum Code "Peer review by 'buddies'/not all views are heard (PBNV)"
+
+Code: UXWM
+Textstelle: "la non-participation des principaux pollueurs mondiaux" [390]
+Begründung: In dieser Textstelle wird skeptisch auf die Nichtbeteiligung der Hauptverschmutzer am Emissionshandelsmarkt hingewiesen. Die Aussage impliziert, dass die Wirksamkeit des Marktes eingeschränkt ist, da die größten Verursacher des Klimawandels nicht mitwirken.
+
+Code: CPFB
+Textstelle: "cette réserve de stabilité du marché pour faire face à l'évolution des prix du carbone ne remet pas en cause le système mais sera de nature à favoriser les grandes entreprises polluantes au détriment des PME, des ETI et des entreprises écologiquement vertueuses" [390]
+Begründung: In dieser Textstelle wird kritisch angemerkt, dass die vorgeschlagene Marktstabilitätsreserve im Emissionshandelsmarkt dazu führen kann, dass große, umweltverschmutzende Unternehmen gegenüber kleinen und ökologisch verantwortungsvollen Unternehmen begünstigt werden. Dies deutet auf Skepsis gegenüber der Wirksamkeit und Gerechtigkeit der vorgeschlagenen Maßnahme hin.
+
+Code: GPNE
+Textstelle: "Questa relazione sfortunatamente continua con il fallimentare approccio di enfasi sui nuovi strumenti di finanziamento su scala mondiale, di enfasi sul riconoscimento dello status di "rifugiato climatico" e, in linea generale, di miopi politiche climatiche dell'UE" [313]
+Begründung: In dieser Textstelle wird skeptisch auf den Ansatz der EU hinsichtlich neuer globaler Finanzierungsinstrumente, der Anerkennung von Klimaflüchtlingen und generell auf die kurzsichtige Klimapolitik hingewiesen. Dies deutet auf Skepsis gegenüber den vorgeschlagenen Maßnahmen zur Bewältigung des Klimawandels hin.
+
+Code: UXWM
+Textstelle: "Fourier már a 19. században leírta az üvegházhatás je-lenségét, amely a bolygónk lassú felmelegedését okozza és amennyiben nem lépünk fel ennek megfékezésére, az hosszútávon az egész élővilágunkra beláthatatlan következményekkel járhat." [201]
+Begründung: In dieser Textstelle wird darauf hingewiesen, dass die Erderwärmung bereits im 19. Jahrhundert beschrieben wurde und dass sie langfristig unbekannte Konsequenzen für die gesamte Biosphäre haben kann. Dies deutet auf ein Unverständnis oder eine Skepsis gegenüber der Existenz des menschengemachten Klimawandels hin.
+
+Code: PBNV
+Textstelle: "Az Európai Unió világviszonylatban is az élen jár szigorú a szabályok bevezetésével a globális fel-melegedés megfékezésében." [201]
+Begründung: In dieser Textstelle wird behauptet, dass die Europäische Union weltweit führend bei der Einführung strenger Regelungen zur Eindämmung der globalen Erwärmung ist. Dies kann als Skepsis gegenüber der Objektivität und Vielfalt der wissenschaftlichen Debatte gesehen werden, da es impliziert, dass nur eine Perspektive auf den Klimawandel akzeptiert wird.
+
+Code: PIII
+Textstelle: "Az EU-nak erkölcsi kötelessége az ügeházhatású gázok kibocsájtásának csökkenéséért küzdeni vala-mennyi diplomácia eszközzel." [201]
+Begründung: In dieser Textstelle wird die Annahme angezweifelt, dass die Europäische Union die moralische Verpflichtung hat, sich für die Reduzierung der Treibhausgasemissionen einzusetzen. Dies deutet auf Skepsis gegenüber politischer Einmischung in den politischen Entscheidungsprozess zum Klimawandel hin.
+
+Code: "BICA"
+Textstelle: "Dieser Vorschlag schießt weit über das Ziel hinaus, und die geforderten Grenzwerte für die Emissionen von Lkw sind aus heutiger technologischer Sicht sehr unrealistisch. Allgemein bin ich dafür, insbesondere bei Grenzwerten für Lkw die langen Produktzyklen zu berücksichti-gen. [814]"
+Begründung: Der Textausschnitt spricht sich gegen die geforderten Grenzwerte für die Emissionen von Lkw aus und argumentiert, dass diese aus technologischer Sicht unrealistisch sind. Dies deutet auf eine Skepsis hin, dass Maßnahmen zur Bekämpfung des Klimawandels zu weitreichend und übertrieben sind. Der Code "BICA" (Better to invest in climate adaptation) passt zu diesem Argument, da er suggeriert, dass es sinnvoller ist, in Anpassungsmaßnahmen an den Klimawandel zu investieren, anstatt drastische Emissionsgrenzwerte für Lkw festzulegen.
+
+Code: "CMOB"
+Textstelle: "Gianluca Buonanno (NI), per iscritto. ‒ Ho espresso voto contrario al provvedi-mento. Ho sempre espresso una posizione fortemente critica verso la politica climatica, di cui questo provvedimento è parte. Nella fattispecie temo che il tutto si traduca in un inutile aggravio burocratico. [274]"
+Begründung: Der Textausschnitt bringt eine starke Kritik gegenüber der Klimapolitik zum Ausdruck. Es wird argumentiert, dass diese Politik zu bürokratischem Aufwand führt, der als nutzlos angesehen wird. Dies deutet auf eine Skepsis gegenüber den Maßnahmen zur Bekämpfung des Klimawandels hin. Der Code "CMOB" (The costs of mitigation outweigh the benefits) passt zu diesem Argument, da er besagt, dass die Kosten der Klimaschutzmaßnahmen höher sind als die damit verbundenen Vorteile.
+
+Code: "NCCM"
+Textstelle: "H Παρούσα έκθεση είναι ένα μεγάλο βήμα προς τα εμπρός σε αυτήν την κατεύθυνση [883]"
+Begründung: In diesem Satz wird Skepsis bezüglich der Kausalität von CO2-Emissionen und dem Klimawandel ausgedrückt. Es wird argumentiert, dass die vorliegende Studie nur minimale Punkte enthält, in denen Vorbehalte oder Meinungsverschiedenheiten zum Ausdruck gebracht werden. Dies könnte darauf hinweisen, dass der Verfasser Zweifel daran hat, ob der Klimawandel tatsächlich durch menschliche Aktivitäten verursacht wird.
+
+Code: "CPFB"
+Textstelle: "When our delegation met the Chi-nese delegation we were treated like morons. We were given a talk of about twenty minutes by one of their deputy ministers and then their delegation upped and left, without even listening to what our President Jo Leinen had to say, leaving us standing there in shock [186]"
+Begründung: In diesem Satz wird die Skepsis gegenüber einer internationalen Antwort auf den Klimawandel ausgedrückt. Der Verfasser argumentiert, dass es sinnvoller wäre, Importgüter aus Ländern, die am meisten verschmutzen, zu besteuern, und die Einnahmen zur Bekämpfung des Klimawandels zu verwenden. Dies könnte darauf hindeuten, dass der Verfasser der Meinung ist, dass die Kosten für die Bekämpfung des Klimawandels unfair auf die Bürger verteilt werden.
+
+Code: UXWM
+Textstelle: "We reject climate hysteria"
+Begründung: In dieser Textstelle wird die Klimaänderung als Hysterie abgetan, was auf eine Skepsis gegenüber dem Vorhandensein des Klimawandels hinweist.
+
+Code: PBNV
+Textstelle: "forcing energy-intensive industries offshore to jurisdictions with lower emission standards. We in UKIP oppose EU climate and energy policy"
+Begründung: Hier wird argumentiert, dass die Klimapolitik der EU bestimmte Industrien ins Ausland treibt, was auf eine Skepsis gegenüber den politischen Maßnahmen zum Klimawandel hindeutet.
+
+Code: "CMOB"
+Textstelle: "We in UKIP are against this recommendation because we oppose the climate change alarmism supported by green lobbies, often financed by the EU Commission. They are the cause of our current damag-ing and counter-productive energy policy. [223]"
+Begründung: In dieser Textstelle wird Skepsis gegenüber dem Klimawandel ausgedrückt, indem die "Klimawandel-Hysterie" kritisiert wird, die von grünen Lobbygruppen unterstützt und durch die EU-Kommission finanziert wird. Die Kritiker behaupten, dass diese Alarmismus hervorrufe und zu einer schädlichen und kontraproduktiven Energiepolitik führe. Dies zeigt eine skeptische Haltung gegenüber den Behauptungen zum Klimawandel und den Maßnahmen, die aufgrund dieser Behauptungen ergriffen werden.
+
+Code: UXWM
+Textstelle: "Environmental action is only possible in a healthy economy. Only if the economy is healthy can we invest in the environment." [196]
+Begründung: In dieser Textstelle wird skeptisch hinterfragt, ob Umweltschutzmaßnahmen überhaupt in einer gesunden Wirtschaft möglich sind. Es wird argumentiert, dass eine gesunde Wirtschaftsgrundlage vorhanden sein muss, um in die Umwelt investieren zu können. Diese Haltung deutet auf eine skeptische Sichtweise gegenüber Maßnahmen zum Klimawandel hin.
+
+Code: CPMM
+Textstelle: "Why is the left not standing up for the workers, not just in Finland but in Europe generally? There are other options: duties can be imposed on products that exceed specific emissions. If we establish a system where environmental dumping originating in the developing and less industrialised countries is not possible, we can protect jobs and superior products, and we will be able to continue to do this in the future too." [196]
+Begründung: In diesem Abschnitt wird argumentiert, dass Maßnahmen wie die Einführung von Emissionsabgaben auf Produkte mit hohen Emissionen dazu führen können, dass Arbeitsplätze geschützt und qualitativ hochwertige Produkte gefördert werden. Diese Sichtweise suggeriert, dass die Kosten für die Bekämpfung des Klimawandels zu hoch sind und negativ auf die Wirtschaft und Arbeitsplätze wirken. Dies deutet auf Skepsis gegenüber Maßnahmen zur Reduzierung von Treibhausgasemissionen hin.
+
+Code: UXWM
+Textstelle: "Dato che il backloading rap-presenta una forma di imposizione occulta all'industria, che il calo della domanda è causato an-zitutto dalla recessione e che il pacchetto energetico UE si sta rivelando fallimentare, esprimo voto negativo." [115]
+Begründung: In dieser Textstelle wird deutlich, dass der Autor Zweifel an der Wirksamkeit und Notwendigkeit der Klimapolitik äußert. Er argumentiert, dass die Maßnahmen wie die Erhöhung der Emissionsquotenpreise und das EU-Energiemanagementpaket nicht erfolgreich sind und dass die Industrie unter einer versteckten Belastung leidet. Dies weist auf eine skeptische Haltung gegenüber den Maßnahmen zur Bekämpfung des Klimawandels hin.
+  
+Code: PMRB
+Textstelle: "Je me suis donc naturel-lement exprimée en faveur de ce programme." [787]
+Begründung: In dieser Textstelle wird deutlich, dass die Autorin sich für das Programm zur Finanzierung der Klimapolitik ausspricht. Dies deutet darauf hin, dass sie eine pragmatische und gemäßigte Herangehensweise an die Klimaproblematik bevorzugt und möglicherweise skeptisch gegenüber radikalen Maßnahmen ist.
+
+Code: "CPMM"
+Textstelle: "Da seit der Einführung der Emissionszertifikate relativ wenig in Sachen erneuerbare Energie getan wurde und gleichzeitig auch ein Ungleichgewicht entstanden ist, da einige Staaten sich an die Vorgaben halten, andere jedoch weiterhin einen sehr hohen CO2 -Ausstoß haben, habe ich dagegen gestimmt. Außerdem ist anzumerken, dass das Zertifikatesystem eine Bedro-hung für Arbeitsplätze in Europa darstellt, wenn sich nur die Europäer an Vorgaben im Klima-schutz halten." [143]
+Begründung: In diesem Textausschnitt wird Zweifel an der Wirksamkeit des Emissionszertifikatesystems geäußert. Der Verfasser argumentiert, dass seit der Einführung des Systems wenig Fortschritte im Bereich erneuerbarer Energien gemacht wurden und es zu einem Ungleichgewicht zwischen den Staaten gekommen ist. Weiterhin wird die Sorge geäußert, dass das System Arbeitsplätze in Europa gefährdet. Dies deutet auf eine Skepsis gegenüber kostspieligen Maßnahmen zur Reduzierung des CO2-Ausstoßes hin, da ihrer Meinung nach nicht alle Staaten gleichermaßen dazu beitragen. Daher wird der Code "CPMM" vergeben.
+
+Code: "CPMM"
+Textstelle: "Ho votato a favore del respingimento della pro-posta della Commissione europea, volta a modificare artificiosamente il prezzo per le quote di emissione ETS."
+Begründung: Diese Textstelle spricht sich gegen die Preisänderung für Emissionszertifikate aus und argumentiert, dass die Kosten für die Bekämpfung des Klimawandels zu hoch sind und keinen Nutzen bringen.
+
+Code: "GPNE"
+Textstelle: "E la paro-la inquinamento non va intesa nel senso usuale e negativo del termine, bensì come ovvio risulta-to di un processo produttivo, che non è perciò assolutamente possibile eliminare."
+Begründung: Hier wird argumentiert, dass die negativen Auswirkungen der Umweltverschmutzung als natürlicher Bestandteil der Produktionsprozesse angesehen werden sollten und dass keine spezifischen Maßnahmen zur Bekämpfung der Umweltverschmutzung erforderlich sind.
+
+Code: "WANU"
+Textstelle: "L'Unione europea farebbe bene a chiedersi il perché del calo dei prezzi di questo sistema, che è da ricer-carsi proprio nella minor produttività dell'industria europea."
+Begründung: Diese Textstelle argumentiert, dass die EU nicht allein handeln sollte und sich die Frage stellen sollte, warum die Preise für Emissionszertifikate gesunken sind, was auf eine geringere Produktivität der europäischen Industrie zurückzuführen sein könnte. Dies zeigt eine Skepsis gegenüber einseitigen Maßnahmen zur Bekämpfung des Klimawandels.
+
+Code: "EJNH"
+Textstelle: "in un periodo di crisi come questo non possiamo assolutamente permetterci che altre aziende chiudano, con un conseguente, prevedibile e insostenibile, calo occupazionale."
+Begründung: Hier wird argumentiert, dass es in Zeiten einer Krise wichtiger ist, die Wirtschaft und Arbeitsplätze zu schützen, als Maßnahmen zum Klimaschutz zu ergreifen. Dies deutet auf eine Skepsis gegenüber Maßnahmen hin, die die Wirtschaft und Arbeitsplätze beeinträchtigen könnten.

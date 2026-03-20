@@ -1,0 +1,58 @@
+['Nach einer Kategorienbildung auf Basis der qualitativen Inhaltsanalyse ergeben sich folgende zusammengefasste Kategorien:\n
+
+1. Infragestellung des wissenschaftlichen Diskurses zum Klimawandel 
+	Zweifel an wissenschaftlichem Konsens 	
+	Klimawandel-Leugnung			
+
+2. Kritik an den Maßnahmen zur Bekämpfung des Klimawandels 
+	Kritik an unzureichenden Maßnahmen 			
+	Ablehnung der Maßnahmen zum Klimawandel 		
+	Pragmatische Kritik an Maßnahmen zum Klimawandel	
+
+3. Kritik an der EU-Klimapolitik 
+	Kritik an wirtschaftlicher Belastung der EU-Klimapolitik 	
+	Kritik an EU-Klimapolitik im Vergleich zu anderen Ländern 	
+	Kritik an EU-Regulierungen im Bereich Klimaschutz 		
+	Kritik an EU-Regulierungen im Bereich Landnutzung 		
+	Kritik an technokratischer EU-Klimapolitik			
+
+4. Forderung nach Nutzung erneuerbarer Energien 
+	Befürwortung der Einführung von Zertifizierungs- und Informationsmechanismen 		
+	Unterstützung von Maßnahmen zum Klimaschutz 
+	Unterstützung des Umwelt- und Gesundheitsschutzes 
+	Unterstützung von Maßnahmen zum Klimawandel und Umweltschutz
+
+5. Kritik an der Nutzung von Atomenergie 
+	Kritik an der Abhängigkeit von Batterierohstoffen aus Ländern wie China		
+
+6. Förderung öffentlichen Verkehrs und Gütertransports per Bahn 
+	Positive Auswirkungen der Städte auf den Klimawandel 
+	Kritik an der Verflechtung von Politik und Wirtschaft	
+
+7. Verknüpfung von Waldsterben mit Klimawandel 
+	Einfluss des Klimawandels auf Wälder 
+	Regelungslücke bei der Zertifizierung von Fahrzeugen 
+	Auswirkung des Emissionshandelssystems auf kleine und mittlere Unternehmen		
+
+8. Ablehnung des Paris-Abkommens 
+	Ablehnung der EU-Emissionshandelsrichtlinie 						
+	Ablehnung der Schaffung einer Marktstabilitätsreserve 				
+	Ablehnung der Klimaagenda 								
+	Ablehnung von internationalen Klimaschutzabkommen und -initiativen 			
+	Ablehnung von Maßnahmen zum Klimaschutz aufgrund von Geschlechterungleichheit 		
+	Ablehnung von Maßnahmen zum Klimawandel						
+
+9. Bedenken bezüglich der Arbeitsplatzverluste in der Automobilindustrie 
+	Zustimmung zur Reduzierung von Emissionen 
+	Dialog und kreative Lösungen mit den USA 
+	Bedenken hinsichtlich der einseitigen Reduzierung von Emissionen 			
+	Befürchtungen hinsichtlich des Budgets und des Emissionszertifikate-Handelssystems
+
+10. Kritik an unzureichenden Berechnungsmethoden 
+	Kritik an finanzierten "Grünwaschung" von Unternehmen 
+	Kritik an fehlender Klimazertifizierung 
+	Kritik an der fehlenden Vorabmessung der Auswirkungen 					
+	Kritik an mangelnder globaler Vereinbarung zur Emissionsreduktion 			
+	Kritik an vorgeschlagenen Maßnahmen zur Förderung von Elektromobilität 
+	Kritik am Emissionshandelssystem 							
+	Kritik an unzureichender Datenbasis']							

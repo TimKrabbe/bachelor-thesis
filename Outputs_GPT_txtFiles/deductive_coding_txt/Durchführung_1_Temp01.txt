@@ -1,0 +1,94 @@
+Code: "CPMM"
+Textstelle: "Ich habe dafür gestimmt, da die Zusammenlegung des Emissionshandelssystems der EU und der Schweiz gewährleistet, dass die gleichen Bedingungen für beide Handelspartner beste-hen. [822]"
+Begründung: Der Text deutet auf Skepsis bezüglich des Nutzens von CO2-Bepreisung hin. Der Sprecher verweist darauf, dass die Zusammenlegung des Emissionshandelssystems der EU und der Schweiz nur dazu dient, gleiche Bedingungen für beide Handelspartner zu schaffen, was impliziert, dass er die Effektivität und den Nutzen der Maßnahmen zur CO2-Reduktion anzweifelt. Dieser Zweifel wird mit dem Code "CPMM" (Carbon pricing: a money making scheme) kodiert.
+
+Code: "CPFB"
+Textstelle: "Cette réserve de stabilité du marché pour faire face à l'évolution des prix du carbone ne remet pas en cause le système mais sera de nature à favoriser les grandes entreprises polluantes au détriment des PME, des ETI et des entreprises écologiquement vertueuses." [390]
+Begründung: In dieser Textstelle wird Skepsis gegenüber der Klimapolitik gezeigt, da die Einführung einer Marktreserve für den Kohlenstoffhandel als Nachteil für kleine und mittelständische Unternehmen (PME) und umweltfreundliche Unternehmen betrachtet wird. Dies deutet darauf hin, dass der Autor Zweifel an der Wirksamkeit und Ausgewogenheit der Maßnahmen zur Bekämpfung des Klimawandels hat.
+
+Code: "GPNE"
+Textstelle: "Questa relazione sfortunatamente continua con il fallimentare approccio di enfasi sui nuovi strumenti di finanziamento su scala mondiale, di enfasi sul riconoscimento dello status di 'rifugiato climatico' e, in linea generale, di miopi politiche climatiche dell'UE." [313]
+Begründung: Der Autor äußert Skepsis gegenüber den Klimapolitiken der EU, indem er sie als blind und erfolglos bezeichnet. Durch die Betonung der neuen globalen Finanzierungsinstrumente und des Status als "Klimaflüchtling" wird die Meinung ausgedrückt, dass diese Politiken nicht notwendig oder gerechtfertigt sind. Dies zeigt Skepsis gegenüber den Maßnahmen zur Bekämpfung des Klimawandels.
+
+Code: EJNH
+Textstelle: "Η προστασία του περιβάλλοντος αφορά στον άνθρωπο και την επιβίωσή του και δεν πρέπει να αποτελεί πεδίο εφαρμογής μικροπολιτικής ή προσπάθεια επιβολής συμφερόντων μεταξύ κρατών"
+Begründung: In dieser Textstelle wird die Notwendigkeit betont, das Umweltproblem anzugehen, wird jedoch die Bedenken geäußert, dass dies nicht aufgrund von politischen Interessen oder einer Verschwörung zwischen Staaten, sondern im Interesse und zum Schutz des Menschen geschehen sollte. Dies zeigt eine gewisse Skepsis gegenüber den politischen Motiven hinter dem Klimawandel.
+
+Code: "AHNP"
+Textstelle: "Ho sempre espresso una posizione fortemente critica verso la politica climatica, di cui questo provvedimento è parte."
+Begründung: In dieser Textstelle äußert sich der Redner kritisch zur Klimapolitik und bezeichnet sie als unnötige Bürokratie. Dies deutet auf eine Skepsis gegenüber dem menschengemachten Klimawandel hin. Der Code "AHNP" (Anthropogenic climate change is a hoax/No problem – no response needed) passt daher zu dieser Textstelle. 
+
+Code: "PBNV"
+Textstelle: "Dieser Vorschlag schießt weit über das Ziel hinaus, und die geforderten Grenzwerte für die Emissionen von Lkw sind aus heutiger technologischer Sicht sehr unrealistisch. Allgemein bin ich dafür, insbesondere bei Grenzwerten für Lkw die langen Produktzyklen zu berücksichtigen."
+Begründung: Der Redner äußert hier seine Bedenken gegenüber den geforderten Grenzwerten für die Emissionen von Lkw. Er bezweifelt, dass diese technologisch umsetzbar sind und weist darauf hin, dass die langen Produktzyklen berücksichtigt werden sollten. Diese Aussage lässt eine Skepsis gegenüber den wissenschaftlichen Vorgängen und politischen Entscheidungen zum Klimawandel vermuten. Der Code "PBNV" (Peer review by ‘buddies’/not all views are heard) passt daher zu dieser Textstelle.
+
+Code: "AHNP"
+Textstelle: "Ho sempre espresso una posizione fortemente critica verso la politica climatica, di cui questo provvedimento è parte."
+Begründung: In dieser Textstelle äußert sich der Redner kritisch zur Klimapolitik und bezeichnet sie als unnötige Bürokratie. Dies deutet auf eine Skepsis gegenüber dem menschengemachten Klimawandel hin. Der Code "AHNP" (Anthropogenic climate change is a hoax/No problem – no response needed) passt daher zu dieser Textstelle.
+
+Code: "BICA"
+Textstelle: "It would be much better to have the courage to tax goods imported from the countries that pollute the most and to use the income to fight climate change." [186]
+Begründung: Hier wird die Skepsis gegenüber den Kosten der Klimaschutzmaßnahmen deutlich. Der Sprecher schlägt vor, Güter aus den Ländern, die am meisten verschmutzen, zu besteuern, um mit dem Einkommen den Klimawandel bekämpfen zu können. Dies zeigt eine skeptische Haltung gegenüber den Kosten der Klimaschutzmaßnahmen und somit den Code "BICA" (Die Kosten der Klimaschutzmaßnahmen übersteigen den Nutzen).
+
+Code: "AHNP"
+Textstelle: ". ‒ UKIP voted against this legislative report. The EU seeks to reduce emissions within its borders while forcing energy-intensive industries offshore to jurisdictions with lower emission standards. We in UKIP oppose EU climate and energy policy. We reject climate hysteria and we believe the EU should accept that the Paris Agreement is close to its end. [592]"
+Begründung: In dieser Textstelle wird klar, dass UKIP (United Kingdom Independence Party) die EU-Klima- und Energiepolitik ablehnt. Sie bezeichnen den Klimawandel als "climate hysteria" und behaupten, dass das Paris-Abkommen kurz vor dem Ende steht. Dies zeigt eine skeptische Haltung gegenüber dem Klimawandel und der politischen Reaktion darauf.
+
+Code: "NCCM"
+Textstelle: "Georg Mayer (ENF), schriftlich. ‒ Klima- und Umweltschutz ist mir ein wichti-ges Anliegen. Doch hier hat man den CO2-Ausstoß als wesentliche Säule für dieses Abkommen bestimmt. Da dies indirekt jene Länder unterstützt, welche auf Kernenergie setzen, habe ich da-gegen gestimmt." [372]
+Begründung: In diesem Ausschnitt kritisiert Georg Mayer die Verwendung von CO2-Emissionen als zentralen Faktor im Klimaabkommen. Er argumentiert, dass dies Länder, die auf Kernenergie setzen, unterstützt. Indem er gegen das Abkommen stimmt, zeigt er Skepsis gegenüber der Verbindung von CO2 und dem Klimawandel.
+
+Code: UXWM
+Textstelle: "We in UKIP are against this recommendation because we oppose the climate change alarmism supported by green lobbies, often financed by the EU Commission. They are the cause of our current damaging and counter-productive energy policy." [223]
+Begründung: In diesem Textausschnitt wird Skepsis gegenüber dem Klimawandel zum Ausdruck gebracht, indem die Kritiker "climate change alarmism" ablehnen und es als Ursache für eine schädliche und kontraproduktive Energiepolitik ansehen.
+
+Code: LCIE
+Textstelle: "often financed by the EU Commission" [223]
+Begründung: Der Text weist darauf hin, dass grüne Lobbygruppen oft von der EU-Kommission finanziert werden. Dies könnte darauf hindeuten, dass die Skepsis hinsichtlich des Klimawandels mit einer skeptischen Haltung gegenüber der Finanzierung der Klimawandel-Forschung und -Bewegungen verbunden ist.
+
+Code: "EJNH"
+Textstelle: "we should be protecting employees, small entrepreneurs and industry. Environmental action is only possible in a healthy economy." [196]
+Begründung: Diese Textstelle zeigt Skepsis gegenüber Maßnahmen zum Klimawandel, da sie betont, dass der Schutz der Wirtschaft und der Arbeitsplätze wichtiger ist als Umweltmaßnahmen. Es wird argumentiert, dass Umweltschutz nur in einer gesunden Wirtschaft möglich ist, was darauf hindeutet, dass der Klimawandel möglicherweise als Bedrohung für die Wirtschaft wahrgenommen wird.
+
+Code: "CPMM"
+Textstelle: "The current trade in percentages, although I say so myself as a Catho-lic, is the modern-day equivalent of selling indulgences, and that is not a good thing." [196]
+Begründung: Hier wird der Code "CPMM" verwendet, da in der Textstelle die Meinung zum Ausdruck gebracht wird, dass der Handel mit Emissionsrechten (der als Instrument zur Bekämpfung des Klimawandels betrachtet wird) als Geldbeschaffungsmechanismus angesehen wird, der keinen tatsächlichen Nutzen für den Klimaschutz hat. Der Vergleich mit dem Verkauf von Ablassbriefen in der katholischen Kirche deutet darauf hin, dass der Autor die Maßnahmen zur Bekämpfung des Klimawandels als betrügerisch ansieht.
+
+Code: "EJNH"
+Textstelle: "Why is the left not standing up for the work-ers, not just in Finland but in Europe generally? Support for the left is melting away faster than the icebergs." [196]
+Begründung: Diese Textstelle zeigt Skepsis gegenüber der Klimapolitik der linken Parteien. Es wird argumentiert, dass die linke politische Seite nicht genug für die Arbeitnehmer und den Erhalt von Arbeitsplätzen tut. Der Vergleich des schwindenden Supports für die Linke mit der Geschwindigkeit, mit der Eisberge schmelzen, deutet darauf hin, dass der Autor die Klimapolitik der Linken als fehlerhaft oder ineffektiv ansieht.
+
+Code: "CPFB"
+Textstelle: "If we establish a system where environmental dumping originating in the developing and less industrialised countries is not possible, we can protect jobs and superior products, and we will be able to continue to do this in the future too." [196]
+Begründung: Hier wird der Code "CPFB" verwendet, da in der Textstelle die Meinung zum Ausdruck gebracht wird, dass Klimaschutzmaßnahmen (insbesondere der Handel mit Emissionsrechten) großen Unternehmen zugutekommen und kleine und mittlere Unternehmen benachteiligen. Es wird argumentiert, dass ein solches System den Wettbewerb verzerrt und bestimmte Unternehmen bevorzugt. Dies deutet auf eine Skepsis gegenüber der Fairness und Wirksamkeit der Klimaschutzpolitik hin.
+
+Code: "CMOB"
+Textstelle: "Support for the left is melting away faster than the icebergs. There are other options: duties can be imposed on products that exceed specific emissions." [196]
+Begründung: In dieser Textstelle wird der Code "CMOB" verwendet, da der Autor kritisiert, dass die Politik der Linken (die im Allgemeinen stärker auf den Klimaschutz fokussiert ist) nicht mehr populär ist und an Zustimmung verliert. Es wird die Meinung vertreten, dass es andere Lösungen gibt (z. B. Handelsbeschränkungen), die für den Klimaschutz effektiver und weniger einschränkend wären. Dies zeigt eine Skepsis gegenüber den Maßnahmen zur Bekämpfung des Klimawandels. 
+
+Code: "CPMM"
+Textstelle: "Η έκθεση είναι ελλιπής σε ότι αφορά στη θέσπιση και στη λειτουργία αποθεματικού για τη σταθερότητα της αγοράς του συστήματος εμπορίας δικαιωμάτων εκπομπής αερίων
+
+Code: "AHNP"
+Textstelle: "Dato che il backloading rap-presenta una forma di imposizione occulta all'industria, che il calo della domanda è causato an-zitutto dalla recessione e che il pacchetto energetico UE si sta rivelando fallimentare, esprimo voto negativo." [115]
+Begründung: In dieser Passage äußert der Sprecher seine Ablehnung gegenüber der Klimapolitik, insbesondere gegenüber dem Backloading, einer Maßnahme zur Verringerung des Emissionshandels. Er argumentiert, dass die Industrie durch diese Maßnahme heimlich belastet wird und dass der Rückgang der Nachfrage hauptsächlich auf die Rezession und das scheiternde EU-Energiepaket zurückzuführen ist. Diese Ablehnung der Klimapolitik deutet auf eine Form von Skepsis hin ("AHNP").
+
+Code: "CPMM"
+Textstelle: "Das 2005 EU-weit eingeführte System soll zu schad-stoffärmerer Produktion führen. Weiters soll das Geld, das mit dem Verkauf von Rechten einge- nommen wird, in die Forschung und Entwicklung schadstoffärmerer Technologien investiert werden. Da seit der Einführung der Emissionszertifikate relativ wenig in Sachen erneuerbare Energie getan wurde und gleichzeitig auch ein Ungleichgewicht entstanden ist, da einige Staaten sich an die Vorgaben halten, andere jedoch weiterhin einen sehr hohen CO2 -Ausstoß haben, habe ich dagegen gestimmt. Außerdem ist anzumerken, dass das Zertifikatesystem eine Bedro-hung für Arbeitsplätze in Europa darstellt, wenn sich nur die Europäer an Vorgaben im Klima-schutz halten." [143]
+Begründung: Die Textstelle zeigt Skepsis gegenüber dem Klimawandel, indem der Zusammenhang zwischen dem Emissionszertifikatesystem und der tatsächlichen Umsetzung von Maßnahmen zur Reduzierung des CO2-Ausstoßes kritisch hinterfragt wird. Es wird darauf hingewiesen, dass wenig in erneuerbare Energie investiert wurde und ein Ungleichgewicht zwischen den Ländern besteht, da einige ihren CO2-Ausstoß hoch halten. Darüber hinaus wird die Befürchtung geäußert, dass das Zertifikatesystem Arbeitsplätze in Europa gefährdet, wenn sich nur EU-Länder an die Klimaschutzvorgaben halten. Diese skeptische Haltung wird durch den ablehnenden Stimmen des Sprechers unterstützt. 
+
+Code: "CPMM"
+Textstelle: "Ce rapport prétexte du changement climatique et de ses conséquences néfastes sur la qua-lité de vie des citoyens européens pour demander à l’Union européenne d’intensifier ses relati-ons avec les autorités locales.\nD’une part, ce rapport vise à octroyer à l’Union européenne de nouvelles prérogatives comme la politique urbaine et l’aménagement du territoire, politiques qui relèvent pourtant des compétences exclusives des États membres. D’autre part, ce rapport appel-le à augmenter le budget alloué à la politique de cohésion et à accroitre la part de financement affectée aux thématiques environnementales. J’ai voté contre." [926]
+Begründung: Die Textstelle beinhaltet Skepsis gegenüber dem Klimawandel, indem der Bericht kritisiert wird, den Klimawandel als Vorwand zu benutzen, um der Europäischen Union mehr Befugnisse in Bezug auf die Stadtplanung und Raumordnung zu übertragen, obwohl diese Bereiche in die ausschließliche Zuständigkeit der Mitgliedstaaten fallen. Es wird auch darauf hingewiesen, dass der Bericht eine Erhöhung des Budgets für die Kohäsionspolitik und eine verstärkte Finanzierung von Umweltthemen fordert. Der Sprecher stimmt gegen den Bericht, was seine skeptische Haltung gegenüber dem Zusammenhang zwischen dem Klimawandel und politischen Maßnahmen zeigt.
+
+Code: "CPFB"
+Textstelle: "Con l'introduzione di questo meccanismo, di per sé piuttosto discutibile, si era deciso di vendere queste quote sul libero mercato, con i prezzi decisi dalla domanda e dall'offerta."
+Begründung: Diese Textstelle drückt die Skepsis aus, dass das Emissionshandelssystem (ETS) nicht fair ist und dass die Entscheidung, Emissionszertifikate auf dem freien Markt zu verkaufen, diskutabel ist. Die Kritik liegt darin, dass große Unternehmen von diesem System profitieren könnten und dass die Preise nicht fair durch Angebot und Nachfrage bestimmt werden.
+
+Code: "PMRB"
+Textstelle: "La Commissione europea si è trovata spiazzata da un drastico calo del costo di queste emissioni, che invero dovrebbe invece essere valutato positivamente, in quanto si otterrebbe l'obiettivo ambientale prefissato con un minor costo a carico di chi produce e inquina."
+Begründung: Diese Textstelle drückt die Meinung aus, dass auf den drastischen Preisverfall der Emissionszertifikate positiv reagiert werden sollte, da das Ziel der Reduzierung von Emissionen mit geringeren Kosten für die Industrie erreicht werden könnte. Es wird argumentiert, dass die Europäische Kommission überrascht war, was auf eine Skepsis gegenüber Maßnahmen hinweist, die die Kosten für die Industrie erhöhen könnten.
+
+Code: "EJNH"
+Textstelle: "L'Unione europea farebbe bene a chiedersi il perché del calo dei prezzi di questo sistema, che è da ricercarsi proprio nella minor produttività dell'industria europea: se la misura sul back-loading fosse passata, sicuramente la situazione sarebbe ancora drammaticamente peggiorata, e in un periodo di crisi come questo non possiamo assolutamente permetterci che altre aziende chiudano, con un conseguente, prevedibile e insostenibile, calo occupazionale."
+Begründung: Hier wird argumentiert, dass die Europäische Union die Gründe für den Preisverfall im Emissionshandelssystem untersuchen sollte. Es wird eine Skepsis gegenüber Maßnahmen zum Ausdruck gebracht, die die Produktivität der europäischen Industrie beeinträchtigen könnten. Es wird betont, dass es in einer Krise nicht akzeptabel ist, dass Unternehmen schließen und Arbeitsplätze verloren gehen.
